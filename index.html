@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+          background-image: url('Images/starBackground.jpeg');
+          -webkit-background-size: cover;
+        -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+        }
+        </style>
+</head>
+<body>
+    <p id = "operation">Press h or H for help</p>
+    <p id = "operation2"></p>
+    <div id = "helpBox"></div>
+    <canvas id="gl-canvas"  width="1920" height="1080">
+        Oops ... your browser doesn't support the HTML5 canvas element
+    </canvas>
+<br/>
+</body>
+<script type="text/javascript" src="Common/MV.js"></script>
+<script type="text/javascript" src="Common/initShaders2.js"></script>
+<script type="text/javascript" src="Common/MVnew.js"></script>
+<script src = "./modules/textures.js"></script>
+<script src = "./modules/input.js"></script>
+<script src = "./modules/variables.js"></script>
+<script src = "./modules/planets.js"></script>
+<script src = "./modules/terrain.js"></script>
+<script type="module" src="sphere.js"></script>
+</html>
