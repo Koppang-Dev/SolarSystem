@@ -13,7 +13,7 @@ Welcome to my **solar system visualization project**! Originally implemented usi
 ![Image Three](Images/imageThree.png)
 
 
-# App Demo Video
+# Solar System Demo Video
 - If you do not want to download and run the project, here is a link to a demonstration!
 - **[Link to Solar System Demonstration](https://youtu.be/v3B8bzLYldE)**
 
