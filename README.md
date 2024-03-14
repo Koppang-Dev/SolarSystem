@@ -8,12 +8,9 @@ Welcome to our **solar system visualization project**! Originally implemented us
 - Run the index.html through a live server
 
 ## Screenshots
-<div style="display: flex;">
-  <img src="Images/imageOne.png" alt="Image 1" style="width: 200px; height: auto;">
-  <img src="Images/imageTwo.png" alt="Image 2" style="width: 200px; height: auto;">
-  <img src="Images/imageThree.png" alt="Image 1" style="width: 200px; height: auto;">
-</div>
-
+![Image One](Images/imageOne.png)
+![Image Two](Images/imageTwo.png)
+![Image Three](Images/imageThree.png)
 
 ## Applied Principles
 Our solar system implementation incorporates key principles learned in our classes, including transformations, rotations, textures, and lighting.
