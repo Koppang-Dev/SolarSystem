@@ -1,7 +1,7 @@
 # Solar System Visualization Project
 
 ## Concept
-Welcome to our **solar system visualization project**! Originally implemented using OpenGL, this project creates a semi-realistic representation of the solar system where the planets rotate and revolve in accurate proportions. The planet's rotation can also be stopped at any moment, providing a dynamic exploration experience. The size of the planets is rendered to scale based on their ratios to the sun. Recently, we transitioned this project to WebGL, enabling it to run seamlessly within web browsers. This transition allows users to interactively explore the solar system directly from their browsers without the need for additional software installations. Additionally, a unique feature of this visualization project allows users to view the planets from different angles by adjusting the camera, enhancing the immersive experience.
+Welcome to my **solar system visualization project**! Originally implemented using OpenGL, this project creates a semi-realistic representation of the solar system where the planets rotate and revolve in accurate proportions. The planet's rotation can also be stopped at any moment, providing a dynamic exploration experience. The size of the planets is rendered to scale based on their ratios to the sun. Recently, we transitioned this project to WebGL, enabling it to run seamlessly within web browsers. This transition allows users to interactively explore the solar system directly from their browsers without the need for additional software installations. Additionally, a unique feature of this visualization project allows users to view the planets from different angles by adjusting the camera, enhancing the immersive experience.
 
 ## Installation
 - Download the Repository
@@ -13,9 +13,9 @@ Welcome to our **solar system visualization project**! Originally implemented us
 ![Image Three](Images/imageThree.png)
 
 ## Applied Principles
-Our solar system implementation incorporates key principles learned in our classes, including transformations, rotations, textures, and lighting.
+This solar system implementation incorporates key principles learned in the Computer Graphics class which includes transformations, rotations, textures, and lighting.
 
-To create all the planets we just made many copies of our sun and then used transformations and scaling techniques to move them to the correct locations on the screen and change their size of them. 
+To create all the planets our group just made many copies of our sun and then used transformations and scaling techniques to move them to the correct locations on the screen and change their size of them. 
 
 ```javascript
   var earthTranslation = translate(20.0, 0, 0);    // Translating earth away from the sun
