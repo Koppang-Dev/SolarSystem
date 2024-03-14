@@ -12,6 +12,11 @@ Welcome to my **solar system visualization project**! Originally implemented usi
 ![Image Two](Images/imageTwo.png)
 ![Image Three](Images/imageThree.png)
 
+
+# App Demo Video
+- If you do not want to download and run the project, here is a link to a demonstration!
+- **[Link to Solar System Demonstration](https://youtu.be/v3B8bzLYldE)**
+
 ## Applied Principles
 This solar system implementation incorporates key principles learned in the Computer Graphics class which includes transformations, rotations, textures, and lighting.
 
