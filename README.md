@@ -3,14 +3,17 @@
 ## Concept
 Welcome to our **solar system visualization project**! Originally implemented using OpenGL, this project creates a semi-realistic representation of the solar system where the planets rotate and revolve in accurate proportions. The planet's rotation can also be stopped at any moment, providing a dynamic exploration experience. The size of the planets is rendered to scale based on their ratios to the sun. Recently, we transitioned this project to WebGL, enabling it to run seamlessly within web browsers. This transition allows users to interactively explore the solar system directly from their browsers without the need for additional software installations. Additionally, a unique feature of this visualization project allows users to view the planets from different angles by adjusting the camera, enhancing the immersive experience.
 
-## Inspiration
-Our group's inspiration for the project is rooted in one of our member's genuine passion for astronomy. This interest created an opportunity to merge enthusiasm with our class's educational objectives. When presented with the project, our group saw the chance to apply classroom knowledge creatively and engagingly. 
+## Installation
+- Download the Repository
+- Run the index.html through a live server
 
-Opting to develop a solar system as our project theme offered more than a practical application of WebGL skills—it became a dynamic canvas for exploring various class concepts such as transformations, lighting, colour, and texture. This decision provided an exceptional avenue to extend beyond the confines of classroom learning, delivering a comprehensive educational experience for every member of our group.
+## Screenshots
+<div style="display: flex;">
+  <img src="Images/imageOne.png" alt="Image 1" style="width: 200px; height: auto;">
+  <img src="Images/imageTwo.png" alt="Image 2" style="width: 200px; height: auto;">
+  <img src="Images/imageThree.png" alt="Image 1" style="width: 200px; height: auto;">
+</div>
 
-The project's flexibility emerged as a pivotal asset. By focusing on a solar system, we could tailor the implementation's complexity to suit the diverse programming levels within our team. This inclusive approach ensured that each member could make meaningful contribution and a shared sense of accomplishment.
-
-In summary, it originated from a genuine curiosity about planets and a shared aspiration to delve deeper into the realms of WebGL and JavaScript. Although there were many features not completed, it was a fulfilling exploration of both the planetary and programming intricacies.
 
 ## Applied Principles
 Our solar system implementation incorporates key principles learned in our classes, including transformations, rotations, textures, and lighting.
